@@ -12,10 +12,6 @@ Web scraper untuk mengambil data heroes Mobile Legends lengkap dengan skills, wi
 - ✅ Web interface modern untuk melihat data
 - ✅ REST API endpoints
 
-## Screenshots
-
-![Web Interface](docs/screenshot.png)
-
 ## Tech Stack 🛠️
 
 - **Python 3.13+**
