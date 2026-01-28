@@ -1,0 +1,5 @@
+scrapling
+httpx
+pydantic
+loguru
+apscheduler
